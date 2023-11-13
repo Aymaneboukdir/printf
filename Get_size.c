@@ -2,8 +2,8 @@
 
 /**
  * get_size - Calculatess size to cast the argument
- * @format: Formatted string 
- * @i: List of argumentss 
+ * @format: Formatted string
+ * @i: List of argumentss
  *
  * Return: Precisionn.
  */
